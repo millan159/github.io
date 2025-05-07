@@ -1,0 +1,13 @@
+body{
+    text-align: center;
+}
+header p{
+    color: #333;
+}
+section{
+    margin-bottom: 25px;
+}
+h2{
+    color: aqua;
+    border-bottom: 1px solid #ccc;
+}
